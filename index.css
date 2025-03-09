@@ -163,16 +163,22 @@ color:#007185
  justify-content: space-evenly;
  background-color:#ffcdb2 ;
 }
+.shop-section2 {
+  display:flex;
+  justify-content: space-evenly;
+  background-color:#ffcdb2 ;
+  padding-top:20px;
+ }
 
 .box {
- height: 400px  ;
+ height: 450px  ;
  
  width: 23%;
  background-color: white;
 }
 
 .box-img {
- height:300px;
+ height:350px;
  background-size:cover;
  background-repeat:no-repeat;
  align-items: center;
